@@ -9,17 +9,11 @@ Calculus (MATH 522 or similar), Linear Algebra (MATH 347, 577 or similar), Proba
 - Reinforcement Learning: An Introduction, by Andrew Barto and Richard S. Sutton, [book link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - Reinforcement Learning: Theory and Algorithms, by Alekh Agarwal et al. [book link]([https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf](https://rltheorybook.github.io/rltheorybook_AJKS.pdf))
 
-## Related Courses (optional)
-- UIUC, Statistical Reinforcement Learning, by Prof. Nan Jiang, [course link](https://nanjiang.cs.illinois.edu/cs598)
-- Princeton, Foundations of Reinforcement Learning, by Prof. Chi Jin, [course link](https://sites.google.com/view/cjin/teaching/ece524)
-- UC Berkeley, Deep Reinforcement Learning, by Prof. Sergey Levine, [course link](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- Cornell, Foundations of Reinforcement Learning, by Prof. Wen Sun, [course link](https://wensun.github.io/CS6789.html)
-
 ## Logistics
 <!--University of California, Los Angeles  -->
 - Time: **Tuesday and Thursday 11:00AM - 12:15PM, 2025 Spring**
 - Location: **ITS Manning 1101**  
-- Instructor: [Weitong Zhang](http://zeroweight.github.io) [Email](mailto:weitongz_at_unc_dot_edu)
+- Instructor: [Weitong Zhang](http://zeroweight.github.io), [Email](mailto:weitongz_at_unc_dot_edu)
 - Office hours:
   - After the lecture, 12:15PM - 13:00PM, Tuesday and Thursday
   - Additional office hours would be posted seperatly or by appointment
@@ -37,6 +31,12 @@ Grades will be computed based on the following factors:
   - Completeness (30%)
   - Peer-reviewed Quality (30%)
 
+## Related Courses (optional)
+- UIUC, Statistical Reinforcement Learning, by Prof. Nan Jiang, [course link](https://nanjiang.cs.illinois.edu/cs598)
+- Princeton, Foundations of Reinforcement Learning, by Prof. Chi Jin, [course link](https://sites.google.com/view/cjin/teaching/ece524)
+- UC Berkeley, Deep Reinforcement Learning, by Prof. Sergey Levine, [course link](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- Cornell, Foundations of Reinforcement Learning, by Prof. Wen Sun, [course link](https://wensun.github.io/CS6789.html)
+  
 ## Schedule
 
 |Dates (T, TH) | Tuesday | Thursday |  Reading | Assignment |
