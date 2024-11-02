@@ -3,7 +3,7 @@
 This graduate-level course is designed for students with interests in machine learning, artificial intelligence, and statistical methodologies. Advanced undergraduate students are also encouraged to enroll. Sequential decision-making systems, especially those powered by reinforcement learning, are essential for the development of autonomous AI systems and a core application of modern machine learning.The course covers foundational theories and concepts in decision-making algorithms, with a focus on reinforcement learning (RL) techniques. Key topics include the principles of Markov Decision Processes (MDPs), Q-learning, and policy-based algorithms, along with hands-on analysis and exploration of their applications.
 
 ## Prerequisites
-Linear Algebra (MATH 347, 577 or similar), Probability Theory (MATH 535, 635 or similar), Python Programming (COMP 116 or similar), Machine Learning (COMP 562, 755 or similar)
+Calculus (MATH 522 or similar), Linear Algebra (MATH 347, 577 or similar), Probability Theory (MATH 535, 635 or similar), Python Programming (COMP 116 or similar), Machine Learning (COMP 562, 755 or similar)
 
 ## Textbook (optional)
 - Reinforcement Learning: An Introduction, by Andrew Barto and Richard S. Sutton, [book link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
