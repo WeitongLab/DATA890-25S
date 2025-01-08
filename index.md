@@ -24,12 +24,12 @@ Grades will be computed based on the following factors:
 
 - Attendence: 10%
 - Reading report: a one-page-around report on one (or two) paper(s) published in year 2023/2024/2025 on
-  - Empirical Topics (10%)
-  - Theoretical Topics (10%)
-  - Advanced Topics / RL + GenAI (10%)
-- Final Project (60%) (detailed ratio subject to change)
-  - Completeness (30%)
-  - Peer-reviewed Quality (30%)
+  - Empirical Topics (20%)
+  - Theoretical Topics (20%)
+  - Advanced Topics / RL + GenAI (20%)
+- Final Project (30%) (detailed ratio subject to change)
+  - Completeness (20%)
+  - Peer-reviewed Quality (10%)
 
 ## Related Courses (optional)
 - UIUC, Statistical Reinforcement Learning, by Prof. Nan Jiang, [course link](https://nanjiang.cs.illinois.edu/cs598)
