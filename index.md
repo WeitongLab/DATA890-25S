@@ -39,21 +39,21 @@ Grades will be computed based on the following factors:
   
 ## Schedule
 
-|Dates (T, TH) | Tuesday | Thursday |  Reading | Assignment |
-|---- | ----------|-------------|------|---|
-|01/06, 01/10|no class held |	Overview, logistics, supervised behavior learning|||
-|01/14, 01/16|Markov Decision Processes and Planning in RL|Coding foundations, behavioral cloning |||
-|01/21, 01/23|Value Iteration and Value-based methods	|Practical deep RL with Q-learning|||
-|01/28, 01/30|Policy Iteration and Policy Gradient Methods	|Actor-Critic Algorithms|||
-|02/04, 02/06|Advanced Policy-based algorithms	|Model-based RL, MPC and World Model|||
-|02/11, 02/13|Theoretical Foundation: Multi-arm bandits	|Exploration and Value-Iteration in Tabular MDP|||
-|02/18, 02/20|Function Approximation, Linear Bandits	|Least Square Value-Iteration in Linear MDPs (I)|||
-|02/25, 02/27|Least Square Value-Iteration in Linear MDPs  (II)	|RL with General Function Approximation|||
-|03/04, 03/06|Offline RL: Distribution Shift and Pessimism 	|Offline RL algorithms: CQL, IQL and more|||
-|03/18, 03/20|Hybrid RL, safety and constraint in RL	|Unsupervised RL and reward free exploration|||
-|03/25, 03/27|Game Theory, two-player zero-sum game	|Multi-Agent, general sum game and federated RL|||
-|04/01, 04/03|Inverse RL and Reward Modeling	|Introduction to LLM and Diffusion Models|||
-|04/08, 04/10|RL with Human Feedback; Alignment	|RL with Sequence Models, In context RL|||
-|04/15, 04/17|RL with Diffusion Models 	|Well-being day - no class held|||
-|04/22, 04/24|Advanced Topics in RL / Guest Lectures	|Afterwords, Challenges and Open Problems|||
-|04/29, 05/01|In-Class Final Presentation	|Examination Days - no class held|||
+|Dates (T, TH) | Tuesday | Thursday |
+|---- | ----------|-------------|
+|01/06, 01/10|no class held |	Overview, logistics, supervised behavior learning|
+|01/14, 01/16|Markov Decision Processes and Planning in RL|Coding foundations, behavioral cloning |
+|01/21, 01/23|Value Iteration and Value-based methods	|Practical deep RL with Q-learning|
+|01/28, 01/30|Policy Iteration and Policy Gradient Methods	|Actor-Critic Algorithms|
+|02/04, 02/06|Advanced Policy-based algorithms	|Model-based RL, MPC and World Model|
+|02/11, 02/13|Theoretical Foundation: Multi-arm bandits	|Exploration and Value-Iteration in Tabular MDP|
+|02/18, 02/20|Function Approximation, Linear Bandits	|Least Square Value-Iteration in Linear MDPs (I)|
+|02/25, 02/27|Least Square Value-Iteration in Linear MDPs  (II)	|RL with General Function Approximation|
+|03/04, 03/06|Offline RL: Distribution Shift and Pessimism 	|Offline RL algorithms: CQL, IQL and more|
+|03/18, 03/20|Hybrid RL, safety and constraint in RL	|Unsupervised RL and reward free exploration|
+|03/25, 03/27|Game Theory, two-player zero-sum game	|Multi-Agent, general sum game and federated RL|
+|04/01, 04/03|Inverse RL and Reward Modeling	|Introduction to LLM and Diffusion Models|
+|04/08, 04/10|RL with Human Feedback; Alignment	|RL with Sequence Models, In context RL|
+|04/15, 04/17|RL with Diffusion Models 	|Well-being day - no class held|
+|04/22, 04/24|Advanced Topics in RL / Guest Lectures	|In-Class Final Presentation|
+|04/29, 05/01|Examination Days - no class held	|Examination Days - no class held|
